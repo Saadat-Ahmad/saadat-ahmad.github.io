@@ -38,7 +38,7 @@ body {
         text-indent: calc(var(--x) * -1);
         overflow: hidden;
         transform: translate(var(--x), var(--y));
-    }
+    } 
     &.start {
         div {
             opacity: 0;
