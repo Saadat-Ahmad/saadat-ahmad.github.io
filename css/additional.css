@@ -1,5 +1,5 @@
-ul {
-  
+
+ ul {
    align: right;
    position: relative;
    display: flex;
@@ -37,7 +37,6 @@ ul li:after{
   transform: skewY(-49deg);
 }
 ul li span{
-  
   border-radius: 18px;
   transform: rotate(360deg) skew(0deg);
   position: absolute;
@@ -51,7 +50,7 @@ ul li span{
   align-items: center;
   color: #b8a07e;
   font-size: 30px !important;
-  transition: 1.5s ease-out;
+  transition: 0s ease-out;
 }
 ul li:hover span {
   
@@ -73,5 +72,5 @@ ul li:nth-child(3):hover span{
 }
 ul li:nth-child(4):hover span{
   color: black;
-  background:  #e6e6e6 !important;
+  background: #fff !important;
 }
