@@ -197,36 +197,7 @@ p {
   margin-bottom: 30px;
 }
 
-/*-----------------------------------------------------------------------------------*/
-/*  Navbar Top
-/*-----------------------------------------------------------------------------------*/
-nav {
-  position: fixed;
-  background: transparent;
-  width: 100%;
-  padding: 20px;
-  display: none; 
-  -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
-  -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
-  box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
-}
-.logo {
-  float: left;
-}
 
-.logo img {
-  width: 100px;
-  height: 50px;
-}
-
-.responsive {
-  display: none;
-  font-size: 23px;
-}
-
-.active {
-  color: #afafaf;
-}
 
 /*----------------------------------------------------------------------------------*/
 /*  Header
