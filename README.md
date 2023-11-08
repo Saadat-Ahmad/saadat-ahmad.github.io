@@ -1,2 +1,2 @@
 # saadat-ahmad.github.io
-Syed Saadat Ahmad is a 17 year old tech & buisiness blogger.
+Syed Saadat Ahmad, pursuing Bachelor's in Technology (Computer Engineering), Aligarh Muslim University, Aligarh.
